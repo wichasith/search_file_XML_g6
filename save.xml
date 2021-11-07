@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<path>
+  <Folder name="animal">
+    <Folder name="dog">
+      <File date="11/08/2021 02:16:28" md5="6f5902ac237024bdd0c176cb93063dc4" size="0.012 KB">Shiba.txt</File>
+      <File date="11/08/2021 02:19:27" md5="d784fa8b6d98d27699781bd9a7cf19f0" size="0.002 KB">Pomeranian.txt</File>
+      <File date="10/15/2021 11:20:35" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">Chihuahua.txt</File>
+    </Folder>
+    <Folder name="cat">
+      <File date="10/15/2021 11:19:47" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">Bengal</File>
+      <File date="10/15/2021 11:19:25" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">Munchkin</File>
+      <File date="10/15/2021 11:19:04" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">ScottishFold</File>
+    </Folder>
+    <Folder name="bird">
+      <Folder name="b1">
+        <File date="10/28/2021 22:35:09" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">berdey</File>
+      </Folder>
+      <File date="10/15/2021 11:22:32" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">Lovebird</File>
+      <File date="11/07/2021 22:36:49" md5="5bc5b3d4d0d55c4e0685b74db2c2dbb1" size="5.461 KB">Budgie</File>
+      <File date="10/15/2021 11:23:13" md5="d41d8cd98f00b204e9800998ecf8427e" size="0.0 KB">ScarletMacaw</File>
+    </Folder>
+  </Folder>
+</path>
